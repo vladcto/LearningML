@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="480882a7-5849-4618-9ba9-29d793d749c7" name="Default Changelist" comment="create project&#10;&#10;Проект, который показывает мою историю обучения ML, в частности&#10;Глубокому Обучению" />
+    <list default="true" id="480882a7-5849-4618-9ba9-29d793d749c7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Fourth Neuro">
+  <component name="RunManager" selected="Python.Third Neuro">
     <configuration name="First_neuro" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DeepLearningProcess" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,8 +139,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Fourth Neuro" />
         <item itemvalue="Python.Third Neuro" />
+        <item itemvalue="Python.Fourth Neuro" />
         <item itemvalue="Python.Second neuro" />
         <item itemvalue="Python.First_neuro" />
       </list>
@@ -155,6 +157,18 @@
       <option name="presentableId" value="Default" />
       <updated>1580916307041</updated>
     </task>
+    <task id="LOCAL-00001" summary="create project&#10;&#10;Проект, который показывает мою историю обучения ML, в частности&#10;Глубокому Обучению">
+      <created>1581183169249</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581183169249</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create project&#10;&#10;Проект, который показывает мою историю обучения ML, в частности&#10;Глубокому Обучению" />
+    <option name="LAST_COMMIT_MESSAGE" value="create project&#10;&#10;Проект, который показывает мою историю обучения ML, в частности&#10;Глубокому Обучению" />
   </component>
 </project>

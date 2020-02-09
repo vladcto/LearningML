@@ -7,8 +7,6 @@ goal_pred = 10000
 # тем самым не будет слишком "агресивных" коректировок веса
 alpha = 0.001
 
-step = 0.001
-
 for i in range(1001):
     pred = inp * weight
     error = (goal_pred - pred) ** 2

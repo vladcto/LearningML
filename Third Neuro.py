@@ -3,8 +3,6 @@ weight = 0.5
 inp = 0.5
 goal_pred = 10000
 
-step = 0.001
-
 for i in range(100):
     pred = inp * weight
     error = (goal_pred - pred) ** 2
