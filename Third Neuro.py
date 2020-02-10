@@ -1,7 +1,7 @@
 # Упрощенный градиентный спуск
-weight = 0.5
-inp = 0.5
-goal_pred = 10000
+weight = 0
+inp = 1.1
+goal_pred = 0.8
 
 for i in range(100):
     pred = inp * weight

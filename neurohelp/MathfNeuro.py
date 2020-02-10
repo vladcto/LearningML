@@ -23,3 +23,4 @@ def vector_sum(vec_a):
 
 def vector_average(vec_a):
     return vector_sum(vec_a) / len(vec_a)
+
